@@ -50,7 +50,7 @@ the potential costs incurred from fraud transactions.
 
 ### 5. Model Building ###
 - Build and tested 4 machine learning algorithms, Gaussian Naïve Bayes, Random Forest Classifier, K-Nearest Neighbors and XGBoost
-- We used classification accuracy, TPR (Sensitivity), FPR (Specificity), F1 score and AUROC evaluation as metrices for deciding the best model
+- We used classification accuracy, TPR (Sensitivity), FPR (Specificity), F1 score and AUROC evaluation as further supporting metrices for deciding the best model
 - XGBoost had the highest value for classification accuracy (1.0 for Train, 0.99910 for Test), TPR (1.0 for both Train and Test), F1 score (1.0 for Train, 0.99912 for Test) and AUC value of 1.0. It also had the lowest FPR (0.0 for Train, 0.0018 for Test)
 
 ### 6. Conclusion ###
